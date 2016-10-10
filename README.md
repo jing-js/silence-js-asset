@@ -1,3 +1,3 @@
-# silence-js-mailer
+# silence-js-asset
 
-mailer
+asset service
