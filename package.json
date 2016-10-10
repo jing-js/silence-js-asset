@@ -1,0 +1,22 @@
+{
+  "name": "silence-js-asset",
+  "version": "1.0.0",
+  "description": "asset service for silence-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuhang GE <abeyuhang@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jing-js/silence-js-asset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jing-js/silence-js-asset/issues"
+  },
+  "homepage": "https://github.com/jing-js/silence-js-asset#readme",
+  "dependencies": {
+    
+  }
+}
